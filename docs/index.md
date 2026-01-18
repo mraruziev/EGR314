@@ -7,11 +7,11 @@ tags:
 <center>
 <font size= "6">Asadbek Ruziev Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Exploration Device Project</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 202 </font><br>
 
-**Submission: January, 11, 2026**
+**Submission: January, 18, 2026**
 </center>
 
 ## Introduction
