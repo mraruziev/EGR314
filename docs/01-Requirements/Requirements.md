@@ -17,5 +17,5 @@ This section of the website outlines the requirements for the proper operation o
 | The motor moves forward and back | All wheels turn on flat surfaces | No slipping and works well on hard surfaces too | **No** |
 | Motor turns right and left | 2 motors on the left and 2 on the right turn together and move, staying in the  same place | The steering system works, and the 2 motors work with better-controlled movement | **Yes** |
 | 4 Wheels | Wheels are good enough to hold the rover | Wheels operate well and have stable alignment | **No** |
-| Mechanical constraints | Fits within a decided shape  | Clean mounting of motors to the PCB |  |
+| Mechanical constraints | Fits within a decided shape  | Clean mounting of motors to the PCB | **No** | 
 
