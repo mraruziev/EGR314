@@ -13,7 +13,7 @@ This section of the website outlines the requirements for the proper operation o
 | Consumption of power | Motors, motor driver, and PCB do not heat up too much | Meets power budget guidelines | **No** |
 | Low-voltage DC motors | 4 Brushless DC motors | 2 brushless DC motors can hold and move the upper body of the rover | **No** |
 | Motor driver | L298N motor driver | No overheating in the test window | **No** |
-| 9V for motor | Module runs well | Consistent running without the need to change the battery | **No** |
+| Shared power for motor | Module runs well with pin header| Consistent power without need to change source  | **No** |
 | The motor moves forward and back | All wheels turn on flat surfaces | No slipping and works well on hard surfaces too | **No** |
 | Motor turns right and left | 2 motors on the left and 2 on the right turn together and move, staying in the  same place | The steering system works, and the 2 motors work with better-controlled movement | **Yes** |
 | 4 Wheels | Wheels are good enough to hold the rover | Wheels operate well and have stable alignment | **No** |
